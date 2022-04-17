@@ -1,0 +1,10 @@
+To Kill a Mockingbird,Harper Lee,120,$1.0
+why we sleep?,Mathew Walker,20,$2.0
+Atomic Habbit,John Clear,39,$1.0
+Harry Potter,JK Rowling,30,$2.0
+Start With Why,Simon Sinek,5,$1.5
+Programming With Python,John Smith,20,$1.5
+The Last Lecture,Jefrey Zaslay,20,$0.5
+A Course in Miracles,Anthoney White,40,$1.0
+The Power of Now,Norman Peale,20,$2.0
+Rich Dad Poor Dad,Robert kiyosaki,60,$1.0
